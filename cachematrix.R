@@ -2,6 +2,8 @@
 ## "matrix" object in order to avoid the expense of recomputing it
 ## if the matrix has not changed. 
 ## It is assumed that the input matrix is invertible.
+## These functions are based on the example code for caching the mean of a vector
+## provided in the README file containing the assignment instructions.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
